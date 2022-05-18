@@ -1,0 +1,22 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow:5px 5px 5px lightblue,10px 10px 5px blue,15px 15px 5px purple;    
+}
+.the_note_person
+{
+font-size: 15px;
+ color:indianred;   
+}
+.copy_right_footer
+{
+position: fixed;
+color:blueviolet;
+bottom: 0;
+width: 100%;
+background-color: yellow;
+line-height: 3;
+text-align: center;
+}
